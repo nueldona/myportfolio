@@ -390,7 +390,7 @@ body {
 }
 
 body.bg-img {
-  background: url("../img/pexels-photo-2565919.jpeg");
+  background: url("img/pexels-photo-2565919.jpeg");
   background-attachment: fixed;
   background-size: cover;
 }
